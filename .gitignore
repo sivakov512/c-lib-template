@@ -1,0 +1,17 @@
+# Environment
+.envrc
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build system
+.cache
+build
+compile_commands.json
+
+# Logs and dumps
+*.core
+*.dmp
+*.log
